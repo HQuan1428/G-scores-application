@@ -16,7 +16,7 @@ class ScoreTableSeeder extends Seeder
      */
     public function run(): void
     {
-        $csvPath = storage_path('app/private/score.csv');
+        $csvPath = base_path('dataset\score.csv');
 
         // Read data from csv file
         $csv = Reader::createFromPath($csvPath, 'r');
