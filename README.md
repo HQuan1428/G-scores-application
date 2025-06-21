@@ -5,7 +5,7 @@ The G-Scores project is a small web application built to complete the Web Develo
 ### 🔗 Live Demo
 
 * **Frontend:** [https://g-scores-application.vercel.app/](https://g-scores-application.vercel.app/)
-* **Video Demo:** [Demostration video](./video-demo/Demo-g-scores.mp4)
+* **Video Demo:** [Demostration video](https://drive.google.com/file/d/1MRHkpReoULnqAyzWg_hr3B9dRwv1oHbB/view?usp=drive_link)
 
 
 ### 📸 Screenshots
