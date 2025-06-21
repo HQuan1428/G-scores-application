@@ -2,13 +2,13 @@
 
 The G-Scores project is a small web application built to complete the Web Developer Intern assignment for Golden Owl. The application allows users to look up national high school exam scores by registration number, view insightful statistical reports, and list the top 10 students for Group A subjects.
 
-### 🔗 Live Demo
+### Live Demo
 
 * **Frontend:** [https://g-scores-application.vercel.app/](https://g-scores-application.vercel.app/)
 * **Video Demo:** [Demostration video](https://drive.google.com/file/d/1MRHkpReoULnqAyzWg_hr3B9dRwv1oHbB/view?usp=drive_link)
 
 
-### 📸 Screenshots
+### Screenshots
 
 
 ![Homepage desktop](./screenshots/homepage.png)
@@ -120,4 +120,4 @@ A few of the main API endpoints for the project:
 
 * **Name:** Nguyen Hai Quan
 * **Email:** quannguyenhai51@gmail.com
-* **GitHub:** [https://github.com/HQuan1428](https://github.com/HQuan1428))
+* **GitHub:** [https://github.com/HQuan1428](https://github.com/HQuan1428)
