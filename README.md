@@ -34,27 +34,25 @@ This project fulfills the following requirements:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Component      | Technology                                                    |
 | :------------- | :------------------------------------------------------------ |
 | **Frontend**   | React, Vite, TypeScript, Tailwind CSS / Material-UI, Axios    |
 | **Backend**    | PHP, Laravel                                                  |
 | **Database**   | PostgreSQL                                                    |
-| **Deployment** | Vercel (for Frontend), Render(for Backend & Database) |
+| **Deployment** | Vercel (for Frontend) |
 
 ---
 
-### 🚀 Setup and Installation Guide
-
-There are two ways to run this project on your local machine. The Docker method is recommended as it is fast and does not require manual installation of PHP, Composer, or PostgreSQL.
+### Setup and Installation Guide
 
 #### System Requirements
 * Git
 * Node.js and npm 
 * PHP and Composer 
 
-#### Manual Installation (Without Docker)
+#### Manual Installation
 
 You will need to run two separate terminals for the Frontend and Backend.
 
